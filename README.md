@@ -45,12 +45,6 @@ When I'm not building infrastructure, I enjoy solving algorithmic puzzles:
 - 🧩 [**Advent of Code**](https://github.com/ellevaoche/AdventOfCode) – Polyglot solutions in Java, Go, Rust, Kotlin, Python, and more
 - 🔍 [**promql-exec**](https://github.com/ellevaoche/promql-exec) – PromQL execution utility in Go
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellevaoche&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ## 🌟 Interests
 
 - 🤖 AI-Augmented Development & Agents
