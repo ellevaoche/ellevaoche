@@ -19,6 +19,15 @@ I'm passionate about building scalable cloud-native infrastructure and APIs. At 
 | [**gateway-kong-image**](https://github.com/telekom/gateway-kong-image) | Custom Kong Gateway image |
 | [**gateway-rotator**](https://github.com/telekom/gateway-rotator) | K8s operator for TLS secret rotation |
 
+## 🤖 AI-Augmented Development
+
+I'm a strong believer in leveraging AI to supercharge the software development process. I actively integrate AI coding assistants, autonomous agents, and innovative tooling into my daily workflow:
+
+- 🧠 **AI Coding Assistants** – Pair programming with LLMs for faster, higher-quality code
+- 🔗 **MCP Servers** – Building and using Model Context Protocol integrations
+- 🤖 **Autonomous Agents** – Experimenting with agentic workflows for complex tasks
+- ⚡ **Developer Productivity** – Always exploring tools that make engineers more effective
+
 ## 🛠️ Tech Stack
 
 ```text
@@ -26,7 +35,7 @@ Languages:      Java • Go • Bash • Python
 Cloud & Infra:  Kubernetes • Kong • Prometheus • Helm
 Operators:      Kubebuilder • Custom Controllers
 Observability:  PromQL • Grafana • Metrics
-Tools:          Git • Docker • CI/CD
+AI & Tooling:   LLMs • MCP • Agentic Workflows
 ```
 
 ## 🎄 Fun Projects
@@ -44,6 +53,7 @@ When I'm not building infrastructure, I enjoy solving algorithmic puzzles:
 
 ## 🌟 Interests
 
+- 🤖 AI-Augmented Development & Agents
 - 🏗️ Platform Engineering
 - ☸️ Kubernetes & Operators
 - ☁️ Cloud-Native Architecture
