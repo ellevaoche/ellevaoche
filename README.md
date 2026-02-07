@@ -58,6 +58,7 @@ When I'm not building infrastructure, I enjoy solving algorithmic puzzles:
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ellevaoche)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmar-meuthen/)
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.elmar-meuthen.de)
 
 ---
